@@ -79,9 +79,10 @@ Fungsinya sama saja dengan yang ada dibagian Input_Nilai
 
 # hasil run
 
-![Screenshot (236)](https://user-images.githubusercontent.com/116137169/211924335-ff198c73-6ecd-43d3-ad20-3d73be8fc9c9.png)
-![Screenshot (237)](https://user-images.githubusercontent.com/116137169/211924390-ed44e8d0-895d-4cdb-8c73-e6fba60770c0.png)
-![Screenshot (238)](https://user-images.githubusercontent.com/116137169/211924446-1f1afe3c-9883-4afb-aff4-0e86ac5a34c2.png)
-![Screenshot (239)](https://user-images.githubusercontent.com/116137169/211924489-e2747cad-07c4-46f9-8503-f5d9fe62056c.png)
+![Screenshot (236)](https://user-images.githubusercontent.com/116137169/211924887-8bcb0210-7915-4104-bde5-ad9f5c526a5f.png)
+![Screenshot (237)](https://user-images.githubusercontent.com/116137169/211924900-feb8f236-7e96-47f5-9dc9-012eca8069cc.png)
+![Screenshot (238)](https://user-images.githubusercontent.com/116137169/211924922-a6c5aff8-1356-4883-a181-b041bee1dc5e.png)
+![Screenshot (239)](https://user-images.githubusercontent.com/116137169/211924953-76654f2a-d89a-48c7-9f01-1c4c55340cd2.png)
+
 
 
