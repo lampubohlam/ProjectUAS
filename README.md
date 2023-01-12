@@ -85,5 +85,8 @@ Fungsinya sama saja dengan yang ada dibagian Input_Nilai
 ![Screenshot (238)](https://user-images.githubusercontent.com/116137169/211924922-a6c5aff8-1356-4883-a181-b041bee1dc5e.png)
 ![Screenshot (239)](https://user-images.githubusercontent.com/116137169/211924953-76654f2a-d89a-48c7-9f01-1c4c55340cd2.png)
 
+link video bisa diliht disini
+https://youtu.be/30zjuulGiEY
+
 
 
